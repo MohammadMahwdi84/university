@@ -1,0 +1,17 @@
+D:\code\Rento\Rento\bin\Debug\Rento.exe.config
+D:\code\Rento\Rento\bin\Debug\Rento.exe
+D:\code\Rento\Rento\bin\Debug\Rento.pdb
+D:\code\Rento\Rento\obj\Debug\Rento.csproj.AssemblyReference.cache
+D:\code\Rento\Rento\obj\Debug\Rento.Rento.resources
+D:\code\Rento\Rento\obj\Debug\Rento.Properties.Resources.resources
+D:\code\Rento\Rento\obj\Debug\Rento.csproj.GenerateResource.cache
+D:\code\Rento\Rento\obj\Debug\Rento.csproj.CoreCompileInputs.cache
+D:\code\Rento\Rento\obj\Debug\Rento.exe
+D:\code\Rento\Rento\obj\Debug\Rento.pdb
+D:\code\Rento\Rento\obj\Debug\Rento.Form2.resources
+D:\code\Rento\Rento\obj\Debug\Rento.Form3.resources
+D:\code\Rento\Rento\obj\Debug\Rento.Form207.resources
+D:\code\Rento\Rento\obj\Debug\Rento.FormBenz.resources
+D:\code\Rento\Rento\obj\Debug\Rento.FormPars.resources
+D:\code\Rento\Rento\obj\Debug\Rento.FormSan.resources
+D:\code\Rento\Rento\obj\Debug\Rento.Form4.resources
